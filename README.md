@@ -140,7 +140,7 @@
 
 ### Ruta
 
-    Método GET egreso/obtener-egresos-usuario/:id
+    Método GET /egreso/obtener-egresos-usuario/:id
     Ejemplo ruta: egreso/obtener-egresos-usuario/60aee75a3230560015e8c085
 
 ### Datos Obtenidos
