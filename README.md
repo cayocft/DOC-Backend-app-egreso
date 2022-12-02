@@ -18,8 +18,18 @@
 
 ## 1- Servidor
 
-    servidor: https://backend-registro-egreso.herokuapp.com/api-backend-prueba
-    Prefijo: api-backend-prueba
+    servidor: https://api-egresos.edgardocayo.cl/
+    Prefijo: api-egresos
+    
+### NOTA
+
+
+
+```
+Si da error de cors, ERR Certificado... Quitar la "s" al https. Quedando:
+Servidor: http://api-backend-prueba.edgardocayo.cl/
+PREFIJO: api-backend-prueba
+```
 
 ## 2-Crear Usuario
 
