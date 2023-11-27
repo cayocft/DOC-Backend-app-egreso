@@ -18,7 +18,7 @@
 
 ## 1- Servidor
 
-    servidor: https://api-egresos.edgardocayo.cl/
+    servidor: https://backend-dos-campos-cft.koyeb.app/
     Prefijo: api-egresos
     
 ### NOTA
@@ -27,7 +27,7 @@
 
 ```
 Si da error de cors, ERR Certificado... Quitar la "s" al https. Quedando:
-Servidor: https://backend-dos-campos-cft.koyeb.app/
+Servidor: http://backend-dos-campos-cft.koyeb.app/
 PREFIJO: api-backend-prueba
 ```
 
