@@ -19,7 +19,7 @@
 ## 1- Servidor
 
     servidor: https://backend-dos-campos-cft.koyeb.app/
-    Prefijo: api-egresos
+    Prefijo: api-backend-prueba
     
 ### NOTA
 
