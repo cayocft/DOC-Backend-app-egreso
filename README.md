@@ -27,7 +27,7 @@
 
 ```
 Si da error de cors, ERR Certificado... Quitar la "s" al https. Quedando:
-Servidor: http://api-backend-prueba.edgardocayo.cl/
+Servidor: https://backend-dos-campos-cft.koyeb.app/
 PREFIJO: api-backend-prueba
 ```
 
